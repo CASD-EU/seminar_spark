@@ -1,2 +1,7 @@
 notebook
 pyspark
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn

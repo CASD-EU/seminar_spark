@@ -1,7 +1,8 @@
 # install the packages
 install.packages("sparklyr")
+install.packages("dplyr")
 
-# Load necessary libraries
+# Load necessary packages
 library(sparklyr)
 library(dplyr)
 

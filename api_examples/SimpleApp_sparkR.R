@@ -1,7 +1,8 @@
+# install sparkR package
 spark_home <- "C:/Users/PLIU/Documents/Tool/spark/spark-3.5.2" 
 install.packages(paste0(spark_home, "/R/lib/SparkR"), repos = NULL, type = "source")
 
-# Load sparkR libraries
+# Load sparkR package
 library(SparkR)
 
 main <- function() {
